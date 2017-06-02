@@ -6,5 +6,5 @@ requirements.txt，在Python中，该文件用于指明为了运行该软件，�
 直接执行下面指令即可安装需要的Python包   
 `pip install -r ./requirements.txt`
 
-解决mysql-connector-python的安装问题
+解决mysql-connector-python的安装问题   
 `pip install --egg http://dev.mysql.com/get/Downloads/Connector-Python/mysql-connector-python-2.1.4.zip`
